@@ -1,0 +1,2 @@
+# Java-Interface
+This is a project in Java that is designed to serve as a database for a library, in which you can enter the following dates: the writer's name, the title of the book, publishing house, the name of the client, mobile number, the series of an Identification Card and the date when the book was borrowed. Also when you borrow a book you need to enter the day you want to return the book back to the library, then a message will appear with how many days and hours you have remaining to return the book. 
